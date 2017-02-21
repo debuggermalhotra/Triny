@@ -1,0 +1,4 @@
+graft triny/templates
+graft triny/static
+include triny/schema.sql
+

@@ -1,0 +1,1 @@
+from .triny import app
